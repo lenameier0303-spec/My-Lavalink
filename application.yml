@@ -1,0 +1,14 @@
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: "EclipseMusic"
+
+plugins:
+  youtube:
+    enabled: true
+
+logging:
+  level:
+    root: INFO
