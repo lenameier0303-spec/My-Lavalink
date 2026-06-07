@@ -9,8 +9,8 @@ plugins:
     allowDirectVideoIds: true
     allowDirectPlaylistIds: true
     clients:
-  - MUSIC
-  - WEBEMBEDDED
+      - MUSIC
+      - WEBEMBEDDED
 
 lavalink:
   plugins:
