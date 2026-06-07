@@ -12,8 +12,6 @@ plugins:
       - MUSIC
       - ANDROID_TESTSUITE
       - TVHTML5EMBEDDED
-      - WEBEMBEDDED
-      - WEB
 
 lavalink:
   plugins:
